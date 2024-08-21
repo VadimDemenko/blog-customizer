@@ -25,6 +25,16 @@
 	border-right: 1px solid #000000;
 }
 
+.formIndent {
+	margin-bottom: 50px;
+}
+
+.formIndentWithLine {
+	margin-bottom: 50px;
+	padding-top: 50px;
+	border-top: 1px solid #d7d7d7;
+}
+
 .bottomContainer {
 	display: flex;
 	justify-content: space-between;
